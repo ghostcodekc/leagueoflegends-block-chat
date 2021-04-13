@@ -24,7 +24,7 @@ def add_rule(rule_name, ip):
         stdout=DEVNULL, 
         stderr=DEVNULL
     )
-    print(f"Rule {rule_name} added")
+    print(f"Current League of Legends Chat IP Address: {ip}. \nRule {rule_name} added. ")
 
 def modify_rule(rule_name, state):
     """ Enable/Disable specific rule, 0 = Disable / 1 = Enable """
