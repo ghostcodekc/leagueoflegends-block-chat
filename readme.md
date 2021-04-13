@@ -21,6 +21,9 @@ create virtual environment:
 Activate virtual environment:
 - .\lol-block-chat\Scripts\Activate.ps1
 
+Install requrements:
+- pip install -r requirements.txt
+
 ## Instructions
 - Edit the config file for your League of Legends installation directory.
 - Edit the config file for your region.
