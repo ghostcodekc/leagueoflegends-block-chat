@@ -1,5 +1,8 @@
 # League Of Legends Block Chat
 
+## Description
+I would like to know how to appear offline in League of Legends, but when I searched there were very specific examples using the specific IP address for the chat servers at that moment in time. In the League of Legends installation directory there is a 'system.yaml' configuration file that sets the chat server for the League of Legends client. This python script will resolve the current League of Legends chat server IP address and add it to your local firewall rule to block that functionality. 
+
 ## Prerequisites
 Python Version 3.9
 

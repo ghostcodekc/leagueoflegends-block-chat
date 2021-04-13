@@ -94,6 +94,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+lol-block-chat
 
 # Spyder project settings
 .spyderproject
