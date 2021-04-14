@@ -1,4 +1,5 @@
 config:
   dir: D:\Riot Games\League of Legends\system.yaml
   region: NA                                        # Vaild options are [BR, EUNE, EUW, JP, LA1, LA2, NA, OC1, RU, TEST, TR]
-  block_chat: 1                                     # Enable/Disable specific rule, 0 = Disable / 1 = Enable 
+  block_chat: 0                                     # Enable/Disable specific rule, 0 = Disable / 1 = Enable 
+  firewall_rule_name: lolchat
